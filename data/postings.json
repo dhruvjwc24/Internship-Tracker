@@ -1,10 +1,62 @@
 {
-  "generated_at": "2026-08-05T17:22:01.533637+00:00",
+  "generated_at": "2026-08-05T20:03:04.449110+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "30",
+      "company": "NVIDIA",
+      "role": "Ignite (underclassman internship)",
+      "link": null,
+      "deadline_or_cycle": "coming soon",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "29",
+      "company": "Citadel",
+      "role": "2027 SWE Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "28",
+      "company": "Roblox",
+      "role": "[2027] Software Engineer, Early Career",
+      "link": "CAREERS.ROBLOX.COM",
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "27",
+      "company": "NVIDIA",
+      "role": "Software Engineering Intern, Dynamo - Fall 2026",
+      "link": "NVIDIA.EIGHTFOLD.AI",
+      "deadline_or_cycle": "Fall 2026",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "25",
       "company": "Roblox",
