@@ -1,10 +1,166 @@
 {
-  "generated_at": "2026-08-05T17:18:41.975980+00:00",
+  "generated_at": "2026-08-05T17:20:18.424665+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "25",
+      "company": "Roblox",
+      "role": "Software Engineer Intern",
+      "link": "CAREERS.ROBLOX.COM",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "24",
+      "company": "Citadel",
+      "role": "2027 SWE Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "23",
+      "company": "Boeing",
+      "role": "Summer 2027 Internship Program (Paid) \u2013 Data Analytics Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "22",
+      "company": "Shopify",
+      "role": "Software Engineering Intern - Winter 2027",
+      "link": "https://www.shopify.com/careers/software-engineering-interns-winter-2027-12923f7c4856?ashby_id=404bb2e-37f3-4a78-b0f3-12923af7c4856",
+      "deadline_or_cycle": "Winter 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "21",
+      "company": "Shopify",
+      "role": "Applied Machine Learning Engineering Intern - Winter 2027",
+      "link": "https://www.shopify.com/careers/applied-machine",
+      "deadline_or_cycle": "Winter 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "20",
+      "company": "Amazon",
+      "role": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
+      "link": "https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala",
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "19",
+      "company": "Uline",
+      "role": "SWE Intern - Summer 2027",
+      "link": "https://www.uline.jobs/Jobs &sear radius=50",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "18",
+      "company": "PNC",
+      "role": "Data Intern",
+      "link": "https://careers.pnc.com/global",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "17",
+      "company": "Morgan Stanley",
+      "role": "2027 Technology Summer Analyst Program (Alpharetta)",
+      "link": "MORGANSTANLEY.TAL.NET",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "14",
+      "company": "PNC Bank",
+      "role": "Data, Modeling, and Analytics Undergraduate Intern",
+      "link": null,
+      "deadline_or_cycle": "Posted Today",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "15",
+      "company": "PNC Bank",
+      "role": "Supply Chain Management Undergraduate Intern",
+      "link": null,
+      "deadline_or_cycle": "Posted Yesterday",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "16",
+      "company": "PNC Bank",
+      "role": "Independent Risk Management Undergraduate Intern",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "13",
       "company": "Microsoft",
