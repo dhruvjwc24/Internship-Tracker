@@ -1,8 +1,178 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-08-05T17:18:41.975980+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
-  "postings": []
+  "postings": [
+    {
+      "id": "13",
+      "company": "Microsoft",
+      "role": "2027 intern",
+      "link": null,
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-05",
+      "confidence_notes": "Mentioned in the text as a reel about 2027 intern at Microsoft, but no explicit direct application link or specific role title beyond 2027 intern.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "12",
+      "company": "Meta",
+      "role": "2027 SWE Internship",
+      "link": null,
+      "deadline_or_cycle": "open late august-early sept on rolling basis",
+      "date_posted": "2026-08-05",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "11",
+      "company": "DV",
+      "role": "Quantitative Risk Intern - Summer 2027",
+      "link": "job-boards.greenhouse.io",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "10",
+      "company": "Adobe",
+      "role": "Internship",
+      "link": "USO2WEB.ZOOM.US",
+      "deadline_or_cycle": "Event on Oct 8, 2026",
+      "date_posted": "2026-08-04",
+      "confidence_notes": "This is an informational event about internships rather than a direct job opening, but it mentions internship pathways.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "9",
+      "company": "JPMorganChase",
+      "role": "2027 Software Engineer Program - Full-Time - United States - February Start",
+      "link": "JPMC.FA.ORACLECLOUD.COM",
+      "deadline_or_cycle": "February Start",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "8",
+      "company": "Samsung",
+      "role": "2027 Summer Internship",
+      "link": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "7",
+      "company": "Hudson River Trading",
+      "role": "Software Engineering Internship (C++ or Python) - Summer 2027",
+      "link": "https://www.hudsonrivertrading.com/...",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "6",
+      "company": "JPMorgan Chase",
+      "role": "2027 Software Engineer Program - Full-Time",
+      "link": "JPMC.FA.ORACLECLOUD.COM",
+      "deadline_or_cycle": "Released today",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "5",
+      "company": "Hudson River Trading (HRT)",
+      "role": "Software Engineering Internship (C++ or Python) - Summer 2027",
+      "link": "https://www.hudsonrivertrading.com",
+      "deadline_or_cycle": "reopened",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "4",
+      "company": "JPMorganChase",
+      "role": "Sophomore Showcase",
+      "link": "https://lnkd.in/g93Ph3w8",
+      "deadline_or_cycle": "August 12th",
+      "date_posted": "2026-08-04",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "3",
+      "company": "Microsoft",
+      "role": "Intern",
+      "link": null,
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-03",
+      "confidence_notes": "Mentioned as Microsoft intern 2027 inside scoop from an event.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "2",
+      "company": "Microsoft",
+      "role": "Internship",
+      "link": null,
+      "deadline_or_cycle": "once relevant internship opportunities are posted",
+      "date_posted": "2026-08-03",
+      "confidence_notes": "Mentioned general internship opportunities at Microsoft through employee referral program and Microsoft Careers.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "1",
+      "company": "TikTok",
+      "role": "Internship (multiple positions mentioned)",
+      "link": null,
+      "deadline_or_cycle": "More apps open throughout fall, 2 for fall and 2 for spring",
+      "date_posted": "2026-08-03",
+      "confidence_notes": "Information comes from a recruiter chat regarding application strategy rather than a direct listing",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    }
+  ]
 }
