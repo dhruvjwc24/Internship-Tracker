@@ -1,10 +1,166 @@
 {
-  "generated_at": "2026-08-06T03:00:26.409023+00:00",
+  "generated_at": "2026-08-06T18:42:55.585965+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "42",
+      "company": "Microsoft",
+      "role": "Software Engineer: Fullstack Product (Web + Services) Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "43",
+      "company": "Microsoft",
+      "role": "Software Engineer: Security & Identity Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "44",
+      "company": "Microsoft",
+      "role": "Software Engineer: AI/ML & LLM Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "45",
+      "company": "Microsoft",
+      "role": "Software Engineer: Cloud & Distributed Backend Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "46",
+      "company": "Microsoft",
+      "role": "Software Engineer: Data Platform/Analytics Intern",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "47",
+      "company": "Microsoft",
+      "role": "Software Engineer: Intern Opportunities - CoreAI",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "48",
+      "company": "Microsoft",
+      "role": "Technical Program Manager: Internship Opportunities",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "49",
+      "company": "Microsoft",
+      "role": "Product Manager: Internship Opportunities",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "41",
+      "company": "Cabo Bob's",
+      "role": null,
+      "link": "https://l.instagram.com/?u=https%3A%2F%2Ffcabo-bobs-llc.careerplug.com%2Faccount%3Futm_id%3D97760_v0_s0...",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-06",
+      "confidence_notes": "The exact role title is not shown, only the application link and company name.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "40",
+      "company": "Niantic Spatial",
+      "role": "Robotics Engineering Intern - Fall 2026",
+      "link": "JOBS.ASHBYHQ.COM",
+      "deadline_or_cycle": "Fall 2026",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "39",
+      "company": "Rho",
+      "role": "Quantitative Analyst Intern",
+      "link": "https://jobs.ashbyhq.com/rho",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "38",
+      "company": "TikTok",
+      "role": "Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer",
+      "link": "https://lifeattiktok.com/search/7",
+      "deadline_or_cycle": "2027 Summer",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "37",
       "company": "PwC",
