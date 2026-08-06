@@ -1,10 +1,62 @@
 {
-  "generated_at": "2026-08-06T18:42:55.585965+00:00",
+  "generated_at": "2026-08-06T23:36:57.692247+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "53",
+      "company": "Quora",
+      "role": "Software Engineer, Machine Learning Platform, New Grad",
+      "link": "JOBS.ASHBYHQ.COM",
+      "deadline_or_cycle": "New Grad",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "51",
+      "company": "Salesforce",
+      "role": "Software Engineering AMTS (College Grad)",
+      "link": null,
+      "deadline_or_cycle": "College Grad",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "52",
+      "company": "Salesforce",
+      "role": "Associate Product Manager (starting summer 2027)",
+      "link": null,
+      "deadline_or_cycle": "starting summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "50",
+      "company": "Fidelity",
+      "role": "Intern - Summer 2027",
+      "link": "FMR.ZOOM.US",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-06",
+      "confidence_notes": "Mention of a 10-week internship program for Summer 2027, with a webinar event link.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "42",
       "company": "Microsoft",
