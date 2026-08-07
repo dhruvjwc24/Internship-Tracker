@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-07T07:28:56.112459+00:00",
+  "generated_at": "2026-08-07T16:58:15.474674+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "56",
+      "company": "Google",
+      "role": "new grad role",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-07",
+      "confidence_notes": "Mentioned as posted without an apply button.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "55",
+      "company": "Google",
+      "role": "Software Engineer, Early Career, Campus",
+      "link": "google.com",
+      "deadline_or_cycle": "open until at least August 30, 2026",
+      "date_posted": "2026-08-07",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "54",
       "company": "IXL Learning",
