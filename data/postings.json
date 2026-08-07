@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-06T23:36:57.692247+00:00",
+  "generated_at": "2026-08-07T07:28:56.112459+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "54",
+      "company": "IXL Learning",
+      "role": "New Grad SWE 2027",
+      "link": "https://ixl.com/careers",
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-07",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "53",
       "company": "Quora",
