@@ -1,10 +1,192 @@
 {
-  "generated_at": "2026-08-07T23:37:08.176651+00:00",
+  "generated_at": "2026-08-15T03:04:28.194166+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "72",
+      "company": "Palantir",
+      "role": "Dev, Apollo - Summer 2027",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-08",
+      "confidence_notes": "Mentioned in the inner screenshot text bubble",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "71",
+      "company": "Palantir",
+      "role": "FDE",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-08",
+      "confidence_notes": "Mentioned in the context of the interview process report.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "70",
+      "company": "Palantir",
+      "role": "Dev, Apollo - Summer 2027",
+      "link": null,
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "69",
+      "company": "Microsoft",
+      "role": "Software Engineer - Gears of War - The Coalition: Internship",
+      "link": "APPLY.CAREERS.MICROSOFT.C",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": "URL is partially truncated in the screenshot.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "68",
+      "company": "Microsoft",
+      "role": "Technical Program Manager: Internship Opportunities",
+      "link": "APPLY.CAREERS.MICROSOFT.COM",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "67",
+      "company": "Microsoft",
+      "role": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "link": "APPLY.CAREERS.MICROSOFT.COM",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "66",
+      "company": "Microsoft",
+      "role": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students",
+      "link": "APPLY.CAREERS.MICROSOFT.CO",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "65",
+      "company": "Microsoft",
+      "role": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students",
+      "link": "apply.careers.microsoft.co",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": "The link url is slightly cut off at the end in the screenshot.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "64",
+      "company": "Microsoft",
+      "role": "Software Engineer: Security & Identity Intern",
+      "link": "APPLY.CAREERS.MICROSOFT.CO",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": "The domain is partially cut off at the right edge.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "63",
+      "company": "Microsoft",
+      "role": "Software Engineer: Fullstack Product (Web + Services) Intern Opportunities for University Students",
+      "link": "APPLY.CAREERS.MICROSOFT.COM",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "62",
+      "company": "Microsoft",
+      "role": "Software Engineer: Intern Opportunities for University Students - CoreAI",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "61",
+      "company": "Microsoft",
+      "role": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
+      "link": "APPLY.CAREERS.MICROSOFT.CO",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "60",
+      "company": "Google",
+      "role": "Early Career Software Engineering Role",
+      "link": null,
+      "deadline_or_cycle": "opens next week",
+      "date_posted": "2026-08-07",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "59",
+      "company": "Google",
+      "role": "Early Career Software Engineering",
+      "link": null,
+      "deadline_or_cycle": "opens next week",
+      "date_posted": "2026-08-07",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "58",
       "company": "Epic Games",
