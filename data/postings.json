@@ -1,10 +1,179 @@
 {
-  "generated_at": "2026-08-15T03:04:28.194166+00:00",
+  "generated_at": "2026-08-18T22:31:28.451037+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "86",
+      "company": "American Express",
+      "role": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services",
+      "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/30818/?utm_medium=jobboard&utm_source=",
+      "deadline_or_cycle": "Summer Internship Program - 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "85",
+      "company": "Finitec (or InfiniteQuant)",
+      "role": "Quantitative Researcher - Internship - Summer 2027",
+      "link": "https://jobs.smartrecruiters.com",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": "Company name has Finitec logo at the top and InfiniteQuant mentioned in the text description.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "83",
+      "company": "Vanguard",
+      "role": "College to Corporate IT Internship - Application Development (NC)",
+      "link": "https://www.vanguardjobs.com/job-search-results/?keyword=%22college%20to%20corporate%22",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "84",
+      "company": "Vanguard",
+      "role": "College to Corporate IT Internship - Data Science (NC)",
+      "link": "https://www.vanguardjobs.com/job-search-results/?keyword=%22college%20to%20corporate%22",
+      "deadline_or_cycle": "Posted: 8/17/2026",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "82",
+      "company": "Google",
+      "role": "New Grad",
+      "link": "https://www.google.com/about/",
+      "deadline_or_cycle": "Due by August 21",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "81",
+      "company": "Goldman Sachs",
+      "role": "SWE and QT",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": "Mention of OA stages (Software Fundamentals, Software Diagnostics, Math)",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "80",
+      "company": "Atlassian",
+      "role": null,
+      "link": null,
+      "deadline_or_cycle": "early application email for IRL Seattle event attendees",
+      "date_posted": "2026-08-17",
+      "confidence_notes": "Mentioned as Atlassian early consideration/application for event attendees",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "79",
+      "company": "Atlassian",
+      "role": null,
+      "link": null,
+      "deadline_or_cycle": "Monday, August 24th at 5pm PT",
+      "date_posted": "2026-08-17",
+      "confidence_notes": "Early application opportunity for attendees of an in-person Seattle event.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "78",
+      "company": "Atlassian",
+      "role": "Software Engineering Internship",
+      "link": null,
+      "deadline_or_cycle": "5pm PT on Monday, August 24th",
+      "date_posted": "2026-08-17",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "77",
+      "company": "Sentry",
+      "role": "Software Engineer, Intern (Summer 2027)",
+      "link": "JOBS.ASHBYHQ.COM",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-17",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "76",
+      "company": "Sentry",
+      "role": "Software Engineer, New Grad (2027)",
+      "link": "JOBS.ASHBYHQ.COM",
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-17",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "75",
+      "company": "Cisco",
+      "role": "Product Intern",
+      "link": null,
+      "deadline_or_cycle": "Coming out sometime this week or next week",
+      "date_posted": "2026-08-17",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "74",
+      "company": "SpaceXAI",
+      "role": "Intern/New Grad (Memphis site)",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-17",
+      "confidence_notes": "Mentions internship/new grad opportunities will be discussed at an informational session/Q&A on Monday, August 24th.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "72",
       "company": "Palantir",
@@ -61,6 +230,19 @@
       "id": "68",
       "company": "Microsoft",
       "role": "Technical Program Manager: Internship Opportunities",
+      "link": "APPLY.CAREERS.MICROSOFT.COM",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-08",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "73",
+      "company": "Microsoft",
+      "role": "Product Manager: Internship Opportunities",
       "link": "APPLY.CAREERS.MICROSOFT.COM",
       "deadline_or_cycle": null,
       "date_posted": "2026-08-08",
