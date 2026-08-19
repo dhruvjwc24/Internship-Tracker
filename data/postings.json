@@ -1,10 +1,88 @@
 {
-  "generated_at": "2026-08-19T05:57:03.263093+00:00",
+  "generated_at": "2026-08-19T09:54:59.234551+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "105",
+      "company": "Garda Capital Partners",
+      "role": "Quant Software Engineer Intern",
+      "link": "JOB-BOARDS.GREENHOUSE.IO",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-19",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "104",
+      "company": "Honeywell",
+      "role": "Software Engineer I",
+      "link": "careers.honeywell.com",
+      "deadline_or_cycle": "New Grad SWE for 2026 grads",
+      "date_posted": "2026-08-19",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "103",
+      "company": "Intuit",
+      "role": null,
+      "link": null,
+      "deadline_or_cycle": "closed / likely full",
+      "date_posted": "2026-08-19",
+      "confidence_notes": "Mentioned that the Intuit role closed and says Job Not Found.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "102",
+      "company": "Humana",
+      "role": "Humana Technology Internship - Summer 2027",
+      "link": "https://careers.humana.com",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-19",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "101",
+      "company": "Intuit",
+      "role": "Intern, Software Engineering",
+      "link": "https://jobs.intuit.com/job/new-york/intern",
+      "deadline_or_cycle": "closed",
+      "date_posted": "2026-08-19",
+      "confidence_notes": "Role is closed/Job Not Found",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "100",
+      "company": "NVIDIA",
+      "role": "Internships or Early Career Roles",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": "The email mentions applying to internships or early career roles generally, without a specific role title or link.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "99",
       "company": "Microsoft",
