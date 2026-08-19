@@ -1,10 +1,179 @@
 {
-  "generated_at": "2026-08-18T22:31:28.451037+00:00",
+  "generated_at": "2026-08-19T05:57:03.263093+00:00",
   "source_account": {
     "username": "zero2sudo",
     "profile_url": "https://instagram.com/zero2sudo"
   },
   "postings": [
+    {
+      "id": "99",
+      "company": "Microsoft",
+      "role": "PM Intern",
+      "link": null,
+      "deadline_or_cycle": "Invites started going out",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "98",
+      "company": "Intuit",
+      "role": "Intern, Software Engineering",
+      "link": "https://jobs.intuit.com/job/new-york/intern",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "97",
+      "company": "IBM Canada",
+      "role": "Software developer Intern 2027",
+      "link": "https://careers.ibm.com",
+      "deadline_or_cycle": "2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "96",
+      "company": "Sentry",
+      "role": "Software Engineer, Intern (Summer 2027)",
+      "link": "JOBS.ASHBYHQ.COM",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "95",
+      "company": "Google",
+      "role": "Summer 2027 Software Engineering (US) and Software Developer (CA) Internship",
+      "link": null,
+      "deadline_or_cycle": "Applications will open later this month",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "94",
+      "company": "Truist",
+      "role": "2027 Technology, Data, and Operations Internship",
+      "link": "careers.truist.com",
+      "deadline_or_cycle": "08/18/2026",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "93",
+      "company": "Google",
+      "role": "SWE intern",
+      "link": null,
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": "Discusses interview status rather than a direct job posting, but references the Google SWE intern role.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "92",
+      "company": "GE Aerospace",
+      "role": "Engines Engineering Co-op - Computer or Software Engineering",
+      "link": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029637EXTERNALENGLOBAL",
+      "deadline_or_cycle": "Fall 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "91",
+      "company": "Xantium",
+      "role": "Quantitative Developer Intern",
+      "link": "job-boards.greenhouse.io",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "90",
+      "company": "SAP",
+      "role": "iXp Intern - Full-Stack Software Engineer",
+      "link": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-Software-Engineer-(USA)/14270055/",
+      "deadline_or_cycle": null,
+      "date_posted": "2026-08-18",
+      "confidence_notes": "The link is partially visible, reconstructed from standard SAP job URL patterns combined with visible text.",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "89",
+      "company": "L3Harris Technologies",
+      "role": "Intern, Software Engineer",
+      "link": "https://careers.l3harris.com/en",
+      "deadline_or_cycle": "Spring 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "88",
+      "company": "Databricks",
+      "role": "Product Manager",
+      "link": null,
+      "deadline_or_cycle": "Recruiter calls are out",
+      "date_posted": "2026-08-18",
+      "confidence_notes": null,
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
+    {
+      "id": "87",
+      "company": "American Express",
+      "role": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
+      "link": "https://equg.fa.us2.oraclecloud.com",
+      "deadline_or_cycle": "Summer 2027",
+      "date_posted": "2026-08-18",
+      "confidence_notes": "Link is partially truncated at the bottom",
+      "credit": {
+        "name": "zero2sudo",
+        "profile_url": "https://instagram.com/zero2sudo"
+      }
+    },
     {
       "id": "86",
       "company": "American Express",
